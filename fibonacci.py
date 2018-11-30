@@ -1,5 +1,8 @@
+# coding UTF-8
+Author = ParzifalKali
+
+
 def recur_fibo(n):
-   """Recursive function to
    print Fibonacci sequence"""
    if n <= 1:
        return n
